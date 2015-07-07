@@ -2,6 +2,7 @@ package vmvini.controlesalas.controller;
 
 
 
+import java.sql.SQLException;
 import java.util.List;
 
 import vmvini.controlesalas.model.Usuario;
