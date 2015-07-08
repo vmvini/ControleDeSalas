@@ -7,6 +7,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
+import vmvini.controlesalas.controller.LoginValidacaoException;
 import vmvini.controlesalas.model.TipoUsuario;
 import vmvini.controlesalas.model.Usuario;
 
