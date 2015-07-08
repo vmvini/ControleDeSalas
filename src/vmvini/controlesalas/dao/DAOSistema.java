@@ -17,7 +17,7 @@ public class DAOSistema {
 	 private Connection con;
 	    private String url = "jdbc:postgresql://localhost/controleDeSala";
 	    private String user = "postgres";
-	    private String password = "iniv10x";
+	    private String password = "123456";
 	    private Statement statement;
 
 	    public DAOSistema(){

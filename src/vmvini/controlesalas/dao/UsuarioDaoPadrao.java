@@ -18,7 +18,7 @@ public class UsuarioDaoPadrao implements UsuarioDAO {
     protected Connection con;
     protected String url = "jdbc:postgresql://localhost/controleDeSala";
     protected String user = "postgres";
-    protected String password = "iniv10x";
+    protected String password = "123456";
     protected Statement statement;
 
     public UsuarioDaoPadrao() throws SQLException{
