@@ -2,6 +2,7 @@ package vmvini.controlesalas.controller;
 
 import java.sql.SQLException;
 
+import vmvini.controlesalas.dao.DAOSistema;
 import vmvini.controlesalas.model.Usuario;
 
 public class SessaoLogin {
