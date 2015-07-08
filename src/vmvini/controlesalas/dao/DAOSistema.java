@@ -1,5 +1,15 @@
 package vmvini.controlesalas.dao;
 
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+import vmvini.controlesalas.model.TipoUsuario;
+import vmvini.controlesalas.model.Usuario;
+
 public class DAOSistema {
 
 	 private Connection con;
