@@ -3,6 +3,9 @@ package vmvini.controlesalas.controller;
 import java.sql.SQLException;
 import java.util.List;
 
+import vmvini.controlesalas.dao.ConstrutorDaoDB;
+import vmvini.controlesalas.dao.ConstrutorDaoInterface;
+import vmvini.controlesalas.dao.UsuarioDAO;
 import vmvini.controlesalas.model.TipoUsuario;
 import vmvini.controlesalas.model.Usuario;
 
