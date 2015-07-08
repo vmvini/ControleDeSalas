@@ -1,3 +1,4 @@
+
 # Directories #
 /build/
 /bin/
@@ -13,7 +14,7 @@ target/
 *.war
 *.ear
 *.db
- 
+!postgresql-9.4-1201.jdbc4.jar
 ######################
 # Windows
 ######################
